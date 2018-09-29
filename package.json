@@ -1,0 +1,19 @@
+{
+  "name": "vr-api",
+  "version": "1.0.0",
+  "description": "Vse Ramki API",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Sistemium/vrApi.git"
+  },
+  "author": "Sistemium UAB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sistemium/vrApi/issues"
+  },
+  "homepage": "https://github.com/Sistemium/vrApi#readme"
+}
